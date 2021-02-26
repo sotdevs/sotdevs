@@ -1,1 +1,3 @@
-![A cover image](cover_dark.png)
+![A cover image](cover_light.png)
+
+## Ankit Raj (he/him)
