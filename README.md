@@ -76,12 +76,6 @@ I lovee open-source! On my GitHub, You will find NPM libraries and other (mostly
 
 
 
-<br>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edenik&layout=compact"/>
-</p>
-
-<br>
 
 
 
