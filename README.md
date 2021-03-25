@@ -4,10 +4,15 @@
 | ------ |
 
 ## Ankit Raj (he/him)
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linked in"/></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"/></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="dribble"/></a>
+<a href="" target="_blank"> <img src="" alt=""/></a>
+<a href="" target="_blank"> <img src="" alt=""/></a>
 
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Twitter][twitter-shield]][twitter-url]
+
 
 
 I lovee open-source! On my GitHub, You will find NPM libraries and other (mostly) JavaScript-based projects. I am currently working on creating a new static-site-generator [@abelljs](https://github.com/abelljs)
@@ -29,7 +34,4 @@ I lovee open-source! On my GitHub, You will find NPM libraries and other (mostly
      <a href="https://github.com/topics/git" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40" /></a>
 </p>
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
-[twitter-shield]: https://img.shields.io/twitter/follow/ankit_v2_1?style=for-the-badge&color=09f&labelColor=black.svg&logo=twitter&label=Twitter
-[twitter-url]: https://twitter.com/ankit_v2_1
+
