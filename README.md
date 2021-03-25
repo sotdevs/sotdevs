@@ -14,7 +14,7 @@
 
 
 
-I lovee open-source! On my GitHub, You will find NPM libraries and other (mostly) JavaScript-based projects. I am currently working on creating a new static-site-generator [@abelljs](https://github.com/abelljs)
+I lovee open-source! On my GitHub, You will find NPM libraries and other (mostly) JavaScript-based projects. I am currently working on creating a new static-site-generator [@abelljs](https://github.com/abelljs) Optimize and compress JPEG photos and PNG images. Use Adobe's online photo editor to compress JPG images and photos for social networks, email, ...
 
 <p align="center">
         <strong>Popular projects:</strong>
@@ -76,6 +76,12 @@ I lovee open-source! On my GitHub, You will find NPM libraries and other (mostly
 
 
 
+<br>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edenik&layout=compact"/>
+</p>
+
+<br>
 
 
 
@@ -90,5 +96,7 @@ I lovee open-source! On my GitHub, You will find NPM libraries and other (mostly
      <a href="https://github.com/topics/git" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40" /></a>
 </p>
 
+If you like what I do and want me to build more such projects, maybe consider becoming a patron or buying me a coffee  🥺👉👈
 
+<a href="https://www.patreon.com/saurabhdaware"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Become a Patron" width="150"></a> &nbsp; <a href="https://www.buymeacoffee.com/saurabhdaware" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
