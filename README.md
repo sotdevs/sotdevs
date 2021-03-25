@@ -16,65 +16,6 @@
 
 I lovee open-source! On my GitHub, You will find NPM libraries and other (mostly) JavaScript-based projects. I am currently working on creating a new static-site-generator [@abelljs](https://github.com/abelljs) Optimize and compress JPEG photos and PNG images. Use Adobe's online photo editor to compress JPG images and photos for social networks, email, ...
 
-<p align="center">
-        <strong>Popular projects:</strong>
-</p>
-
-<table align="center">
-        <thead>
-                <tr>
-                        <th align="center">
-                        <a href="https://github.com/Edenik/Flutter_Send_Whatsapp_App">Whatsapp Send
-                                </a></th>
-                        <th align="center"><a
-                                        href="https://github.com/Edenik/InstaDart-Flutter-Instagram-Clone">InstaDart</a>
-                        </th>
-                        <th align="center"><a href="https://github.com/Edenik/Dart_Regular_Expressions">Dart Regular
-                                        Expressions</a></th>
-                        <th align="center"><a href="https://github.com/Edenik/Supermarket-Angular-App">Supermarket
-                                        App</a></th>
-                </tr>
-        </thead>
-        <tbody>
-                <tr>
-                        <td align="center">
-                                <a href="https://github.com/Edenik/Flutter_Send_Whatsapp_App">
-                                        <img src="https://github.com/Edenik/Flutter_Send_Whatsapp_App/raw/main/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png?raw=true"
-                                                width="100" style="max-width:100%;">
-                                </a>
-                        </td>
-                        <td align="center">
-                                <a href="https://github.com/Edenik/InstaDart-Flutter-Instagram-Clone">
-                                        <img width="100"
-                                                src="https://github.com/Edenik/Flutter-Instagram-Clone/raw/main/media/InstaDartLogo.png?raw=true"
-                                                style="max-width:100%;">
-                                </a>
-                        </td>
-                        <td align="center">
-                                <a href="https://github.com/Edenik/Dart_Regular_Expressions">
-                                        <img width="100"
-                                                src="https://github.com/Edenik/Dart_Regular_Expressions/blob/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true"
-                                                style="max-width:100%;">
-                                </a>
-                        </td>
-                        <td align="center">
-                                <a href="https://github.com/Edenik/Supermarket-Angular-App">
-                                        <img width="100"
-                                                src="https://supermarketil.web.app/assets/images/fruits.svg"
-                                                style="max-width:100%;">
-                                </a>
-                        </td>
-                </tr>
-        </tbody>
-</table>
-
-<p align="center">
-        <strong>• Other projects can be found on <a href="https://github.com/Edenik?tab=repositories"> Repositories
-                        section
-                </a></strong>
-</p>
-
-
 
 
 
