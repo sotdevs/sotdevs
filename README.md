@@ -20,9 +20,9 @@ I lovee open-source! On my GitHub, You will find NPM libraries and other (mostly
 
 
 
-<h3 >Languages, Frameworks and Tools:</h3>
+<h3 align="center">Languages, Frameworks and Tools:</h3>
 
-<p >
+<p align="center">
      <a href="https://github.com/topics/html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html5" width="40" height="40" /></a>
      <a href="https://github.com/topics/css" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css3" width="40" height="40" /></a>
      <a href="https://github.com/topics/c" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c-2975.svg" alt="c" width="40" height="40" /></a>
