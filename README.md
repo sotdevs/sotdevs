@@ -75,15 +75,13 @@ I lovee open-source! On my GitHub, You will find NPM libraries and other (mostly
 </p>
 
 
-If you like what I do and want me to build more such projects, maybe consider becoming a patron or buying me a coffee  🥺👉👈
-
-<a href="https://www.patreon.com/saurabhdaware"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Become a Patron" width="150"></a> &nbsp; <a href="https://www.buymeacoffee.com/saurabhdaware" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 
-<h3 align="center">Languages, Frameworks and Tools:</h3>
 
-<p align="center">
+<h3 >Languages, Frameworks and Tools:</h3>
+
+<p >
      <a href="https://github.com/topics/html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html5" width="40" height="40" /></a>
      <a href="https://github.com/topics/css" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css3" width="40" height="40" /></a>
      <a href="https://github.com/topics/c" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c-2975.svg" alt="c" width="40" height="40" /></a>
