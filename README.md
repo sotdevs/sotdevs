@@ -74,12 +74,7 @@ I lovee open-source! On my GitHub, You will find NPM libraries and other (mostly
                 </a></strong>
 </p>
 
-<br>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edenik&layout=compact"/>
-</p>
 
-<br>
 
 
 
@@ -95,4 +90,11 @@ I lovee open-source! On my GitHub, You will find NPM libraries and other (mostly
      <a href="https://github.com/topics/git" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40" /></a>
 </p>
 
+
+<br>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edenik&layout=compact"/>
+</p>
+
+<br>
 
