@@ -15,7 +15,6 @@
 
 
 **Welcome!** I'm Ankit. I'm a pre final year student at NIT karnataka India. On my gitgub you will find projects based on my undergraduation courses.
-
 <br>
 <h3  >Languages, Frameworks and Tools:</h3>
 
