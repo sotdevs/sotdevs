@@ -14,10 +14,7 @@
 
 
 
-I lovee open-source! On my GitHub, You will find NPM libraries and other (mostly) JavaScript-based projects. I am currently working on creating a new static-site-generator [@abelljs](https://github.com/abelljs) Optimize and compress JPEG photos and PNG images. Use Adobe's online photo editor to compress JPG images and photos for social networks, email, ...
-
-
-
+**Welcome!** I'm Ankit, As of April 21 i'm a pre final year student of CSE at NIT Karnataka.
 
 
 <h3 align="center">Languages, Frameworks and Tools:</h3>
