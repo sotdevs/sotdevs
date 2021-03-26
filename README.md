@@ -20,9 +20,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edenik&layout=compact"/>
 </p>
-
-<br>
-<br>
 <h3  >Languages, Frameworks and Tools:</h3>
 
 <p >
