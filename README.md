@@ -14,7 +14,7 @@
 
 
 
-**Welcome!** I'm Ankit, As of April 21 i'm a pre final year student of CSE at NIT Karnataka.
+**Welcome!** I'm Ankit. I'm a pre final year student at NIT karnataka India. On my gitgub you will find projects based on my undergraduation courses.
 
 
 <h3 align="center">Languages, Frameworks and Tools:</h3>
